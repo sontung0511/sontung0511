@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Hi, I’m a **Backend Developer** with experience in building scalable and maintainable backend systems for web applications.  
+I specialize in **Node.js** and **Golang**, and I’m passionate about writing clean code, designing efficient APIs, and delivering reliable backend services.
+
+I enjoy solving complex backend problems, working with databases, and building robust system architecture that supports modern, real-world applications.
+
+---
+
 ## 🌐 Social Links
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com/your_facebook_profile](https://www.facebook.com/sontung0511))
