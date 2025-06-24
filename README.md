@@ -23,22 +23,16 @@ I enjoy solving complex backend problems, working with databases, and building r
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ⚙️ DevOps & Tools
-
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![AWS Logo](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Redis Logo](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ Logo](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Grafana Logo](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ArgoCD Logo](https://img.shields.io/badge/ArgoCD-1F7A8C?style=for-the-badge&logo=argocd&logoColor=white)
+![GitLab Logo](https://img.shields.io/badge/gitlab-%2318171D.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
 
 ---
 
-## 📂 Project Structure
 
-```bash
-.
-├── backend/             # Go / Node.js services
-├── frontend/            # React + Tailwind app
-├── k8s/                 # ArgoCD manifests
-├── docs/                # Documentation
-└── README.md
 
