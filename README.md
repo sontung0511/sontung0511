@@ -30,7 +30,7 @@ I enjoy solving complex backend problems, working with databases, and building r
 [![Grafana Logo](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
 [![ArgoCD Logo](https://img.shields.io/badge/ArgoCD-1F7A8C?style=for-the-badge&logo=argocd&logoColor=white)](https://argoproj.github.io/)
 [![GitLab Logo](https://img.shields.io/badge/gitlab-%2318171D.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
-Giải thích
+
 ---
 
 
